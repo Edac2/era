@@ -5,77 +5,77 @@ Author: Sandy Campbell - http://sandycampbell.design
 */
 
 @font-face {
-    font-family: 'Texta';
-    src: url('https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/texta-web-black.eot'); /* IE9 Compat Modes */
-    src: url('https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/texta-web-black.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/texta-web-black.woff') format('woff'), /* Modern Browsers */
-         url('https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/texta-web-black.ttf') format('truetype'); /* Safari, Android, iOS */
+    font-family: "Texta";
+    src: url("https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/texta-web-black.eot"); /* IE9 Compat Modes */
+    src: url("https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/texta-web-black.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+         url("https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/texta-web-black.woff") format("woff"), /* Modern Browsers */
+         url("https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/texta-web-black.ttf") format("truetype"); /* Safari, Android, iOS */
 	font-style: normal;
-    font-weight: 900;
+    font-weight: bold;
     text-rendering: optimizeLegibility;
 }
 
 @font-face {
-    font-family: 'Texta';
-    src: url('https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/texta-web-blackitalic.eot'); /* IE9 Compat Modes */
-    src: url('https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/texta-web-blackitalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/texta-web-blackitalic.woff') format('woff'), /* Modern Browsers */
-         url('https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/texta-web-blackitalic.ttf') format('truetype'); /* Safari, Android, iOS */
+    font-family: "Texta";
+    src: url("https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/texta-web-blackitalic.eot"); /* IE9 Compat Modes */
+    src: url("https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/texta-web-blackitalic.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+         url("https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/texta-web-blackitalic.woff") format("woff"), /* Modern Browsers */
+         url("https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/texta-web-blackitalic.ttf") format("truetype"); /* Safari, Android, iOS */
 	font-style: italic;
-    font-weight: 900;
+    font-weight: bold;
     text-rendering: optimizeLegibility;
 }
 
 @font-face {
-    font-family: 'Texta';
-    src: url('https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/texta-web-regular.eot'); /* IE9 Compat Modes */
-    src: url('https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/texta-web-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/texta-web-regular.woff') format('woff'), /* Modern Browsers */
-         url('https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/texta-web-regular.ttf') format('truetype'); /* Safari, Android, iOS */
+    font-family: "Texta";
+    src: url("https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/texta-web-regular.eot"); /* IE9 Compat Modes */
+    src: url("https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/texta-web-regular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+         url("https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/texta-web-regular.woff") format("woff"), /* Modern Browsers */
+         url("https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/texta-web-regular.ttf") format("truetype"); /* Safari, Android, iOS */
 	font-style: normal;
     font-weight: normal;
     text-rendering: optimizeLegibility;
 }
 
 @font-face {
-    font-family: 'Texta';
-    src: url('https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/texta-web-regularitalic.eot'); /* IE9 Compat Modes */
-    src: url('https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/texta-web-regularitalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/texta-web-regularitalic.woff') format('woff'), /* Modern Browsers */
-         url('https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/texta-web-regularitalic.ttf') format('truetype'); /* Safari, Android, iOS */
+    font-family: "Texta";
+    src: url("https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/texta-web-regularitalic.eot"); /* IE9 Compat Modes */
+    src: url("https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/texta-web-regularitalic.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+         url("https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/texta-web-regularitalic.woff") format("woff"), /* Modern Browsers */
+         url("https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/texta-web-regularitalic.ttf") format("truetype"); /* Safari, Android, iOS */
 	font-style: italic;
     font-weight: normal;
     text-rendering: optimizeLegibility;
 }
 
 @font-face {
-    font-family: 'JustFavicons';
-    src: url('https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/just-favicons.eot'); /* IE9 Compat Modes */
-    src: url('https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/just-favicons.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/just-favicons.woff') format('woff'), /* Modern Browsers */
-         url('https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/just-favicons.ttf') format('truetype'); /* Safari, Android, iOS */
+    font-family: "JustFavicons";
+    src: url("https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/just-favicons.eot"); /* IE9 Compat Modes */
+    src: url("https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/just-favicons.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+         url("https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/just-favicons.woff") format("woff"), /* Modern Browsers */
+         url("https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/just-favicons.ttf") format("truetype"); /* Safari, Android, iOS */
 	font-style: normal;
     font-weight: normal;
     text-rendering: optimizeLegibility;
 }
 
 @font-face {
-    font-family: 'JustHeadlights';
-    src: url('https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/just-headlights.eot'); /* IE9 Compat Modes */
-    src: url('https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/just-headlights.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/just-headlights.woff') format('woff'), /* Modern Browsers */
-         url('https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/just-headlights.ttf') format('truetype'); /* Safari, Android, iOS */
+    font-family: "JustHeadlights";
+    src: url("https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/just-headlights.eot"); /* IE9 Compat Modes */
+    src: url("https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/just-headlights.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+         url("https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/just-headlights.woff") format("woff"), /* Modern Browsers */
+         url("https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/just-headlights.ttf") format("truetype"); /* Safari, Android, iOS */
 	font-style: normal;
     font-weight: normal;
     text-rendering: optimizeLegibility;
 }
 
 @font-face {
-    font-family: 'JustSubways';
-    src: url('https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/just-subways.eot'); /* IE9 Compat Modes */
-    src: url('https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/just-subways.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/just-subways.woff') format('woff'), /* Modern Browsers */
-         url('https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/just-subways.ttf') format('truetype'); /* Safari, Android, iOS */
+    font-family: "JustSubways";
+    src: url("https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/just-subways.eot"); /* IE9 Compat Modes */
+    src: url("https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/just-subways.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+         url("https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/just-subways.woff") format("woff"), /* Modern Browsers */
+         url("https://raw.githubusercontent.com/Edac2/era/blob/master/fonts/just-subways.ttf") format("truetype"); /* Safari, Android, iOS */
 	font-style: normal;
     font-weight: normal;
     text-rendering: optimizeLegibility;
